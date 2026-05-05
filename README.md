@@ -24,7 +24,7 @@ anand = {
     "certs"      : ["CEH Master – EC-Council", "CND – EC-Council"],
     "platforms"  : {
         "TryHackMe"  : "Top 1% globally (3M+ users) | 215 rooms | 65+ labs",
-        "PortSwigger": "120+ labs – SQLi, XSS, JWT, OAuth2, GraphQL, Web Cache Poisoning",
+        "PortSwigger": "160+ labs – SQLi, XSS, JWT, OAuth2, GraphQL, Web Cache Poisoning",
         "HackTheBox" : "20+ machines – AD, Priv-Esc, Lateral Movement",
     },
     "targets"    : ["Junior Penetration Tester", "SOC Analyst", "Security Analyst"],
