@@ -135,12 +135,6 @@ $ cat training_stats.txt
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xShyCell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xShyCell&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=0xShyCell&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41" />
 </p>
 
