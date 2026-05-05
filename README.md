@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=Anand%20Sharma&fontSize=70&fontColor=00FF41&fontAlignY=38&desc=Cybersecurity%20Professional%20%7C%20Penetration%20Tester%20%7C%20SOC%20Analyst&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=Anand%20Sharma&fontSize=70&fontColor=00FF41&fontAlignY=38&desc=Cybersecurity%20%7C%20Junior%20Penetration%20Tester%20%7C%20SOC%20Analyst&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=750&lines=CEH+Master+%7C+CND+Certified;Junior+Penetration+Tester+%7C+SOC+Analyst+%7C+Security+Analyst;HackTheBox+%7C+PortSwigger+%7C+TryHackMe;%24+whoami+%E2%86%92+0xShyCell)](https://github.com/0xShyCell)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=CEH+Master+%7C+CND+Certified;Junior+Pentester+%7C+SOC+Analyst;TryHackMe+%7C+HackTheBox+%7C+PortSwigger;%24+whoami+%3D%3D+0xShyCell)](https://github.com/0xShyCell)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-sharma-624a26222)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xShyCell)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019dd555-688a-712d-98a4-32b40269967a)
 [![Profile Views](https://komarev.com/ghpvc/?username=0xShyCell&color=00FF41&style=for-the-badge&label=Profile+Views)](https://github.com/0xShyCell)
 
 </div>
@@ -61,12 +58,12 @@ Cybersecurity professional with hands-on experience in **SOC operations**, **inc
 
 ### 🔴 Offensive Security
 <div>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ffuf-333333?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/WFUZZ-555555?style=for-the-badge"/>
 </div>
 
 ### 🔵 Defensive Security / SIEM
@@ -81,7 +78,7 @@ Cybersecurity professional with hands-on experience in **SOC operations**, **inc
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 </div>
 
 ### 🖥️ Platforms & OS
@@ -98,9 +95,7 @@ Cybersecurity professional with hands-on experience in **SOC operations**, **inc
 
 <div>
 <img src="https://img.shields.io/badge/CEH_Master-EC--Council-CC0000?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
-
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CND-EC--Council-8B0000?style=for-the-badge&logoColor=white"/>
 </div>
 
@@ -110,7 +105,7 @@ Cybersecurity professional with hands-on experience in **SOC operations**, **inc
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔬 **XtractMobi** | Android forensics tool — extracts artefacts from 15+ platforms, 60% faster via automated parsing | Python |
+| 🔬 **XtractMobi** | Android forensics app — extracts artefacts from 15+ platforms, 60% faster via automated parsing | Android |
 | 📊 **PenTest Reporter** | AI-powered HTML pentest report generator — parsers for nmap, nuclei, CME, BloodHound, Certipy | Python + Anthropic API |
 | 🤫 **Sentinel Report** | Fully offline pure-Python pentest report tool — zero external dependencies, confidentiality-first | Python |
 | 📡 **WIFI-SENTINEL** | Wi-Fi security framework for ALFA AWUS036ACH — passive scan, handshake, PMKID, deauth, rogue AP | Python |
@@ -149,7 +144,7 @@ $ cat training_stats.txt
   <img src="https://streak-stats.demolab.com?user=0xShyCell&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41" />
 </p>
 
----
+
 
 ## 🥇 GitHub Trophies
 
@@ -157,7 +152,7 @@ $ cat training_stats.txt
   <img src="https://github-profile-trophy.vercel.app/?username=0xShyCell&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" />
 </p>
 
----
+
 
 ## 📈 Contribution Graph
 
@@ -165,7 +160,7 @@ $ cat training_stats.txt
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShyCell&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" width="100%"/>
 </p>
 
----
+
 
 ## 🤝 Connect
 
@@ -177,11 +172,11 @@ $ cat training_stats.txt
 
 </div>
 
----
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
 
 ### 💚 *"The quieter you become, the more you are able to hear."* — Kali Linux
 
