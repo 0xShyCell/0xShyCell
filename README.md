@@ -138,7 +138,7 @@ $ cat training_stats.txt
   <img src="https://streak-stats.demolab.com?user=0xShyCell&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41" />
 </p>
 
-
+---
 
 ## 🥇 GitHub Trophies
 
@@ -146,7 +146,7 @@ $ cat training_stats.txt
   <img src="https://github-profile-trophy.vercel.app/?username=0xShyCell&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" />
 </p>
 
-
+---
 
 ## 📈 Contribution Graph
 
@@ -154,7 +154,7 @@ $ cat training_stats.txt
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShyCell&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" width="100%"/>
 </p>
 
-
+---
 
 ## 🤝 Connect
 
