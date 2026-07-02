@@ -23,7 +23,7 @@ anand = {
     "location"   : "Himachal Pradesh, India 🇮🇳",
     "certs"      : ["CEH Master – EC-Council", "CND – EC-Council"],
     "platforms"  : {
-        "TryHackMe"  : "Top 1% globally (3M+ users) | 215 rooms | 65+ labs",
+        "TryHackMe"  : "Top 1% globally (3M+ users) | 349 rooms | 65+ labs",
         "PortSwigger": "160+ labs – SQLi, XSS, JWT, OAuth2, GraphQL, Web Cache Poisoning",
         "HackTheBox" : "20+ machines – AD, Priv-Esc, Lateral Movement",
     },
@@ -118,7 +118,7 @@ Cybersecurity professional with hands-on experience in **SOC operations**, **inc
 ```bash
 $ cat training_stats.txt
 
-[TryHackMe]    Top 1% Globally (3M+ users) | 215 rooms | 65+ labs
+[TryHackMe]    Top 1% Globally (3M+ users) | 349 rooms | 65+ labs
                SIEM monitoring · Threat Hunting · Incident Response · 10,000+ simulated events
 
 [PortSwigger]  120+ labs completed
