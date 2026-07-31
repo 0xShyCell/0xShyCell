@@ -134,17 +134,11 @@ $ cat training_stats.txt
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xShyCell&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=0xShyCell)
 
----
+## 🏆 GitHub Trophies
 
-## 🥇 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xShyCell&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=0xShyCell)
 
 ---
 
