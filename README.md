@@ -132,16 +132,6 @@ $ cat training_stats.txt
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=0xShyCell)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=0xShyCell)
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
